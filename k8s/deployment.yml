@@ -34,4 +34,4 @@ spec:
           - name: SPRING_CLOUD_CONFIG_URI
             value: http://config-service
           - name: SPRING_REDIS_HOST
-            value: polar-redis
+            value: http://polar-redis
